@@ -4,7 +4,7 @@
 
 - Họ tên: Phạm Đức Thọ
 - MSSV: 2A202603182
-- Email: thodzpro1@gmail.com
+- Email: thophamxt@gmail.com
 - Lớp: K5-L2
 - Link repo bài làm: https://github.com/thophamxt-bit/K5-L2-Day02-Ph-m-c-Th--2a202603182
 - Link Colab đã chạy: https://colab.research.google.com/drive/1JOlC90oudt8dzDXbAjHxIJ5TFFcCc55H?usp=sharing
@@ -131,3 +131,4 @@ Kết quả chi tiết được lưu tại [outputs/annotation_evaluation.json](
 - **Tài liệu tham khảo:**
   - Tài liệu hướng dẫn trong repo bài tập (`README.md`, `GUIDE.md`, `RULES.md`, `RUBRIC.md`, `SUBMISSION.md`).
   - Tài liệu chính thức của Ultralytics YOLO: https://docs.ultralytics.com/
+
