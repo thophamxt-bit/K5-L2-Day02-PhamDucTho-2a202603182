@@ -6,7 +6,7 @@
 - MSSV: 2A202603182
 - Email: thophamxt@gmail.com
 - Lớp: K5-L2
-- Link repo bài làm: https://github.com/thophamxt-bit/K5-L2-Day02-PhamDucTho-2a202603182
+- Link repo bài làm: https://github.com/thophamxt-bit/K5-L2-Day02-PhamDucTho-2a202603182.git
 - Link Colab đã chạy: https://colab.research.google.com/drive/1JOlC90oudt8dzDXbAjHxIJ5TFFcCc55H?usp=sharing
 
 ## 2. Schema và mini guideline
